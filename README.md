@@ -1,4 +1,4 @@
-# 🚕 Uber Fare Prediction — Exploratory Data Analysis
+#  Uber Fare Prediction — Exploratory Data Analysis
 
 **ML Internship Program · Cellula Technologies · Task 1**
 
@@ -88,7 +88,7 @@ Full code, plot-choice reasoning, and interpretation for every question is in th
 ## 📁 Repository Contents
 
 ```
-├── task1_eda.ipynb          # Full EDA notebook (cleaning, all 10 questions, heatmap)
+├── task1_eda_final.ipynb          # Full EDA notebook (cleaning, all 10 questions, heatmap)
 ├── Uber_EDA_Task1.pptx      # Presentation: question → plot → insight, as a story
 ├── images/                  # Charts referenced in this README
 └── README.md
